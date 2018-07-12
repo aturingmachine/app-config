@@ -3,5 +3,6 @@ security:
     enabled: false
 
 management:
-  security: 
+  security:
     enabled: false
+
